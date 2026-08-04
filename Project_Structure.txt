@@ -13,5 +13,5 @@ StudentHub/
 ├── feedback.html           # Feedback Page
 ├── style.css               # Common Stylesheet
 ├── README.md               # Project Documentation
-├── sitemap.xml             # Website Sitemap (for SEO)
+├── sitemap.xml             # Website Sitemap
 └── Project_Structure.txt   # Project Folder Structure
