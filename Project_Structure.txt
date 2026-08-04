@@ -1,0 +1,17 @@
+StudentHub/
+│
+├── index.html              # Home Page
+├── about.html              # About Page
+├── login.html              # Login Page
+├── register.html           # Registration Page
+├── dashboard.html          # Student Dashboard
+├── profile.html            # Student Profile
+├── events.html             # Events Page
+├── contact.html            # Contact Page
+├── admin.html              # Admin Page
+├── faq.html                # Frequently Asked Questions
+├── feedback.html           # Feedback Page
+├── style.css               # Common Stylesheet
+├── README.md               # Project Documentation
+├── sitemap.xml             # Website Sitemap (for SEO)
+└── Project_Structure.txt   # Project Folder Structure
