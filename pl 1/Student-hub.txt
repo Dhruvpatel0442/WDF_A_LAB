@@ -1,0 +1,62 @@
+StudentHub Portal
+│
+├── Login
+│   ├── Email / Username
+│   ├── Password
+│   └── Login Button
+│
+├── Register
+│   ├── Full Name
+│   ├── Email Address
+│   ├── Mobile Number
+│   ├── Gender
+│   ├── Password
+│   ├── Confirm Password
+│   └── Register Button
+│
+└── Dashboard
+    │
+    ├── Profile
+    │   ├── Student Photo
+    │   ├── Personal Details
+    │   └── Edit Profile
+    │
+    ├── Courses
+    │   ├── Course 1
+    │   ├── Course 2
+    │   ├── Course 3
+    │   └── Course 4
+    │   ├── Course 5
+    │   └── Course 6
+    │
+    ├── Assignments
+    │   ├── Pending Assignments
+    │   ├── Submitted Assignments
+    │   └── Assignment Details
+    │
+    ├── Attendance
+    │   ├── Attendance Percentage
+    │   ├── Subject-wise Attendance
+    │   └── Monthly Attendance
+    │
+    ├── Results
+    │   ├── Semester Result
+    │   ├── SGPA
+    │   └── CGPA
+    │
+    └── Contact
+        ├── Contact Information
+        ├── Email Support
+        └── Help Desk
+
+
+Required analysis:
+create new account page
+login page
+dashboard
+profile
+course
+assignment detail
+attendance
+result detail page
+contact
